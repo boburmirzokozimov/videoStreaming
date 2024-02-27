@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "BDkCxHSMzdDUKTIAQWrZ2vFNA+wvBwdgmBvdh41Fb74gfkc6dl6COlG8aAkkG07tTH9ALD1TFP9EeogGmEYtzg==",
+  "success": true,
+  "projectFilePath": "/Users/boburmirzo/RiderProjects/VideoStreaming/VideoStreaming/VideoStreaming.csproj",
+  "expectedPackageFiles": [
+    "/Users/boburmirzo/.nuget/packages/ffmpegcore/5.1.0/ffmpegcore.5.1.0.nupkg.sha512",
+    "/Users/boburmirzo/.nuget/packages/instances/3.0.0/instances.3.0.0.nupkg.sha512",
+    "/Users/boburmirzo/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/boburmirzo/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/boburmirzo/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/boburmirzo/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/boburmirzo/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/boburmirzo/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "/Users/boburmirzo/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/boburmirzo/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
+    "/Users/boburmirzo/.nuget/packages/system.text.json/7.0.2/system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
